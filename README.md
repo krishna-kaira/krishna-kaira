@@ -6,8 +6,9 @@
 <a href="https://www.linkedin.com/in/krishnakantkaira/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-</p>
+<br />
+<br />
 
-📈 my github stats
+📈 GitHub stats:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krishna-kaira&show_icons=true&theme=gotham" alt="krishna-kaira" />
